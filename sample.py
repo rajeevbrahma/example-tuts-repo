@@ -1,2 +1,2 @@
 print ("Hello")
-print ("meanwhile in the remote repository the same line is changed")
+print ("change in the local repository")
